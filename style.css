@@ -1,0 +1,97 @@
+body, html {
+    height: 100%;
+    
+}
+.bg {
+    background-color: lightgray;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    background-color: #ffffff
+}
+
+#teal {
+    background-color: teal;
+    float: left;
+    padding-bottom: 0px;
+    padding-top:10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 60px;
+}
+
+.solid {
+    border-style: solid;
+    border-color: #cccccc
+    
+}
+
+h2 {
+    text-decoration: teal;
+}
+
+.head {
+    background-color:#ffffff;
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+    
+}
+.paragraph {
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+}
+.container {
+    background: white;
+    width: 960px;
+    margin: 60px;
+    padding:20px;
+    border-color: #dddddd;
+}
+
+#about {
+    float: right;
+    width: 10%;
+    margin: 0px;
+    padding: 20px;
+    height: 10px;
+    width: -20px;
+    
+
+}
+#portfolio {
+    float: right;
+    width: 10%;
+    margin: 0px;
+    padding: 20px;
+    height: 10px;
+    width: -20px;
+    
+}
+#contact {
+    float: right;
+    width: 10%;
+    margin: 0px;
+    padding: 20px;
+    height: 10px;
+    width: -20px;
+   
+}
+
+.img {
+    float: left;
+    margin: 4px;
+    padding: 7px;
+}
+.container1 {
+    background: white;
+    width: 960px;
+    margin: 0px;
+    padding: 70px;
+    padding-top: 0px;
+    border: 0px;
+}
+
+
